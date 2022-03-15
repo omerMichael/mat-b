@@ -7,7 +7,7 @@ using namespace std;
 
 int main(){
 
-    cout << ariel::mat(9,7,'@','-') << endl;
+    cout << ariel::mat(1, 3,'@','-') << endl;
 
     return 0;
 }
